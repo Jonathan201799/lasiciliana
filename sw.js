@@ -3,7 +3,7 @@ const CACHE_NAME = 'lasiciliana-v1';
 
 // Archivos que se guardan para funcionar sin internet
 const ARCHIVOS = [
-  './LaSiciliana-daDilan.html',
+  './index.html',
   './manifest.json'
 ];
 
