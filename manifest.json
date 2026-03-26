@@ -2,7 +2,7 @@
   "name": "La Siciliana da Dilan",
   "short_name": "La Siciliana",
   "description": "Pizzería Artesanal · San Isidro, Tenerife",
-  "start_url": "./LaSiciliana-daDilan.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f9f6ef",
   "theme_color": "#1c3a2a",
